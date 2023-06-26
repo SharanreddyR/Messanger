@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811041364012",
+    "project_id": "wattsapp-chat",
+    "storage_bucket": "wattsapp-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811041364012:android:09719b9ad2e90990319989",
+        "android_client_info": {
+          "package_name": "com.example.wattsappchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811041364012-f7dlth27ktvlklsbmgi36tiha3lq8b00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9xNJoIf-jIy76nGIhdRtKGG3kXQZI_o0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811041364012-f7dlth27ktvlklsbmgi36tiha3lq8b00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
